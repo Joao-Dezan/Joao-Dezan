@@ -27,6 +27,7 @@
 ### 💫GitHub stats
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
+  
   <!-- Quadro 1 -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=onedark&bg_color=222222FF&border_color=444444FF)
 
