@@ -26,7 +26,17 @@
 
 ### 💫GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=onedark&bg_color=222222FF&border_color=444444FF)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dezan&layout=compact&theme=onedark&bg_color=222222FF&border_color=444444FF)
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <!-- Quadro 1 -->
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=onedark&bg_color=222222FF&border_color=444444FF)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Dezan&theme=onedark&&bg_color=222222FF&hide_border=false" />
+  <!-- Quadro 2 -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dezan&layout=compact&theme=onedark&bg_color=222222FF&border_color=444444FF)
+  
+  <!-- Quadro 3 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Dezan&theme=onedark&&bg_color=222222FF&hide_border=false" />
+</div>
+
+
+
+
