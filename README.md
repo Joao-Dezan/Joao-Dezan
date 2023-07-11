@@ -26,7 +26,7 @@
 
 ### 💫GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezani&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=cobalt&bg_color=00000000&border_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dezan&layout=compact&theme=cobalt&bg_color=00000000&border_color=00000000)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Dezan&theme=cobalt&&bg_color=33333322&hide_border=true" />
