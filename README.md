@@ -26,7 +26,7 @@
 
 ### 💫GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=onedark&bg_color=00000000&border_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dezan&layout=compact&theme=onedark&bg_color=00000000&border_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-Dezan&show_icons=true&rank_icon=github&theme=onedark&bg_color=22222222&border_color=44444422)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Dezan&layout=compact&theme=onedark&bg_color=22222222&border_color=44444422)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Dezan&theme=onedark&&bg_color=33333322&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Dezan&theme=onedark&&bg_color=22222222&hide_border=false" />
