@@ -1,15 +1,14 @@
 #  João Dezan 
 ### Olá, Devs!!👋
 - Meu nome é João Dezan e estou aqui para compartilhar um pouco sobre mim e minha jornada como desenvolvedor. Vamos lá!
+<div>
+  <a href="https://www.linkedin.com/in/joao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 ### Estudos e experiências
 - 🎓 Ciência da Computação
 - 💼 Serpro
   
-<div>
-  <a href="https://www.linkedin.com/in/joao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
 <div>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
