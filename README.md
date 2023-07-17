@@ -2,7 +2,7 @@
 ### Olá, Devs!!👋
 - Meu nome é João Dezan e estou aqui para compartilhar um pouco sobre mim e minha jornada como desenvolvedor. Vamos lá!
 <div>
-  <a href="https://www.linkedin.com/in/joao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  ![<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">](https://www.linkedin.com/in/joao/)
 </div>
 
 ### Estudos e experiências
