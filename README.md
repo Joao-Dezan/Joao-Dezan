@@ -3,8 +3,7 @@
 - Meu nome é João Dezan e estou aqui para compartilhar um pouco sobre mim e minha jornada como desenvolvedor. Vamos lá!
 <div>
 
-
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-dezan/){:target="_blank"}
+  <a href="https://www.linkedin.com/in/joao-dezan/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 </div>
 
